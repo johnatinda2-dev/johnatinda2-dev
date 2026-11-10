@@ -1,6 +1,4 @@
-## Hi there 👋
-
-<!--# John Glenn
+# John Glenn
 
 Computer Science Student • Software Developer • Founder of African Scaling & Scale OS
 
