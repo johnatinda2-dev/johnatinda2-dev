@@ -1,46 +1,52 @@
 # Glenn
 
-**Computer Science Student · Software Developer · Founder**
+**Computer Science Student · Software Developer · Systems Builder**
 
 I build systems — not just software.
 
-Founder of **African Scaling** and **Scale OS**. I design practical tools and operating systems that help African founders scale from early traction to serious revenue, with a heavy focus on WhatsApp-first sales systems and founder leverage.
+I design and ship practical tools, websites, and operating systems that help businesses run better. From clean web products to full business systems, I focus on turning messy processes into reliable, scalable infrastructure.
+
+Founder of **African Scaling** and **Scale OS**.
 
 ---
 
 ### What I Build
 
-- **Systems** that turn chaos into repeatable process
-- **Sales infrastructure** for African B2B teams (WhatsApp-native)
-- **Founder operating systems** that compound
-- Clean, scalable products that solve real problems
+- **Business systems** that turn chaos into repeatable process
+- **Websites & web applications** that are clean, fast, and useful
+- **Sales & operational infrastructure** (especially WhatsApp-native tools)
+- **Founder operating systems** that create leverage
+- Custom tools and products that solve real problems
 
 ---
 
 ### Currently
 
-- Building **Scale OS** — WhatsApp Sales Mastery + Founder Operating System
-- Developing systems and tools for African Scaling
-- Deepening skills in full-stack development and product thinking
-- Shipping with intention
+- Building **Scale OS** — dual-channel sales operating system (WhatsApp + Email)
+- Developing systems and tools under **African Scaling**
+- Shipping websites, internal tools, and business systems for clients
+- Deepening full-stack development and product thinking
 
 ---
 
 ### Tech Stack
 
-`JavaScript` `TypeScript` `React` `Next.js` `Node.js`
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,python,postgres,git,docker" alt="Tech Stack" />
+</p>
+
+`JavaScript` `TypeScript` `React` `Next.js` `Node.js`  
 `Python` `SQL` `PostgreSQL` `Git` `Docker`
 
 ---
 
 ### Projects
 
-```
-| Project             | Description                                                             |
+| Project | Description |
 | ------------------- | ----------------------------------------------------------------------- |
-| **Scale OS**        | Founder operating system + WhatsApp sales systems for African B2B teams |
-| **African Scaling** | Brand & education company helping African founders scale to $1M–$10M+   |
-```
+| **Scale OS** | Dual-channel sales operating system (WhatsApp + Email) for B2B teams |
+| **African Scaling** | Media & systems brand helping founders scale with clarity |
+| **Client Systems** | Custom websites, tools, and business systems built for real companies |
 
 ---
 
