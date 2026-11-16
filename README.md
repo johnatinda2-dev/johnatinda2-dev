@@ -1,31 +1,29 @@
 # Glenn
 
-**Computer Science Student · Software Developer · Systems Builder**
+**Systems Builder · Founder · Software Developer**
 
 I build systems — not just software.
 
-I design and ship practical tools, websites, and operating systems that help businesses run better. From clean web products to full business systems, I focus on turning messy processes into reliable, scalable infrastructure.
+I turn messy business processes into clean, repeatable infrastructure. Especially for African B2B founders who sell on WhatsApp.
 
-Founder of **African Scaling** and **Scale OS**.
+Founder of **[African Scaling](https://african-scaling-site.vercel.app)** and **[Scale OS](https://scaleos-gray.vercel.app)**.
+
+---
+
+### Building right now
+
+- **[Scale OS](https://scaleos-gray.vercel.app)** — Dual-channel sales operating system (WhatsApp + Email)
+- **[African Scaling](https://african-scaling-site.vercel.app)** — Systems & media brand for African founders
+- Client systems, websites, and internal tools
 
 ---
 
 ### What I Build
 
-- **Business systems** that turn chaos into repeatable process
-- **Websites & web applications** that are clean, fast, and useful
-- **Sales & operational infrastructure** (especially WhatsApp-native tools)
-- **Founder operating systems** that create leverage
-- Custom tools and products that solve real problems
-
----
-
-### Currently
-
-- Building **Scale OS** — dual-channel sales operating system (WhatsApp + Email)
-- Developing systems and tools under **African Scaling**
-- Shipping websites, internal tools, and business systems for clients
-- Deepening full-stack development and product thinking
+- Business systems that turn chaos into process
+- WhatsApp-native sales & operational infrastructure
+- Clean, fast websites and web applications
+- Founder operating systems that create leverage
 
 ---
 
@@ -35,25 +33,20 @@ Founder of **African Scaling** and **Scale OS**.
   <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,python,postgres,git,docker" alt="Tech Stack" />
 </p>
 
-`JavaScript` `TypeScript` `React` `Next.js` `Node.js`  
-`Python` `SQL` `PostgreSQL` `Git` `Docker`
+---
+
+### Stats
+
+![Glenn's GitHub stats](https://github-readme-stats.vercel.app/api?username=johnatinda2-dev&show_icons=true&theme=dark&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=johnatinda2-dev&layout=compact&theme=dark&hide_border=true)
 
 ---
 
-### Projects
+### Work with me
 
-| Project | Description |
-| ------------------- | ----------------------------------------------------------------------- |
-| **Scale OS** | Dual-channel sales operating system (WhatsApp + Email) for B2B teams |
-| **African Scaling** | Media & systems brand helping founders scale with clarity |
-| **Client Systems** | Custom websites, tools, and business systems built for real companies |
-
----
-
-### Connect
-
-- GitHub → [johnatinda2-dev](https://github.com/johnatinda2-dev)
-- Email → johnatinda2@gmail.com
+- **Email** → johnatinda2@gmail.com
+- **X** → [@its_glenn01](https://x.com/its_glenn01)
+- Open to: sales systems, WhatsApp automation, founder OS builds, and high-ticket infrastructure work
 
 ---
 
