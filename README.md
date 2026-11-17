@@ -37,8 +37,8 @@ Founder of **[African Scaling](https://african-scaling-site.vercel.app)** and **
 
 ### Stats
 
-![Glenn's GitHub stats](https://github-readme-stats.vercel.app/api?username=johnatinda2-dev&show_icons=true&theme=dark&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=johnatinda2-dev&layout=compact&theme=dark&hide_border=true)
+![Glenn's GitHub stats](https://github-stats-extended.vercel.app/api?username=johnatinda2-dev&show_icons=true&theme=dark&hide_border=true)
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=johnatinda2-dev&layout=compact&theme=dark&hide_border=true)
 
 ---
 
