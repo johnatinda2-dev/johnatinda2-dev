@@ -40,7 +40,7 @@ Founder of **[African Scaling](https://african-scaling-site.vercel.app)** and **
 ![Glenn's GitHub stats](./profile/stats.svg)
 ![Top Languages](./profile/top-langs.svg)
 
-<!-- Cards auto-update daily via GitHub Action -->
+<!-- Cards auto-update every six hours via GitHub Actions; private contributions require GH_STATS_TOKEN -->
 
 ---
 
