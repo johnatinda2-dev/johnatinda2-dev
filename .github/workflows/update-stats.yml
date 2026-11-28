@@ -2,8 +2,8 @@ name: Update README stats
 
 on:
   schedule:
-    - cron: "0 3 * * *" # daily at 03:00 UTC
-  workflow_dispatch: # allow manual runs
+    - cron: "0 */6 * * *" # refresh every six hours (UTC)
+  workflow_dispatch: # allow manual refreshes
 
 permissions:
   contents: write
@@ -15,27 +15,37 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
+      - name: Verify private-stats token is configured
+        env:
+          STATS_TOKEN: ${{ secrets.GH_STATS_TOKEN }}
+        run: |
+          if [ -z "$STATS_TOKEN" ]; then
+            echo "::error::Add the GH_STATS_TOKEN repository secret before running this workflow."
+            exit 1
+          fi
+
       - name: Generate stats card
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
-          options: username=johnatinda2-dev&show_icons=true&theme=dark&hide_border=true
+          options: username=johnatinda2-dev&show_icons=true&theme=dark&hide_border=true&count_private=true
           path: profile/stats.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.GH_STATS_TOKEN }}
+          fail_on_error: true
 
       - name: Generate top-langs card
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
-          options: username=johnatinda2-dev&layout=compact&theme=dark&hide_border=true
+          options: username=johnatinda2-dev&layout=compact&theme=dark&hide_border=true&count_private=true
           path: profile/top-langs.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.GH_STATS_TOKEN }}
+          fail_on_error: true
 
       - name: Commit cards
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          mkdir -p profile
           git add profile/*.svg
           if git diff --staged --quiet; then
             echo "No changes to stats cards"
